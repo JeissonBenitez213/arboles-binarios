@@ -1,4 +1,4 @@
-lass Persona:
+class Persona:
     def __init__(self, nombre, nacimiento):
         self.nombre = nombre
         # Se asegura de que el nacimiento sea un número entero para las comparaciones
